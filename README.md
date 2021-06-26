@@ -5,6 +5,7 @@
 cd build
 rm -rf *
 cd ..
+cd bin/
 cmake ..
 make
 
